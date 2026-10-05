@@ -1,0 +1,18 @@
+.bootstrap {
+  align-items: center;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 24px;
+  text-align: center;
+}
+
+.bootstrap h1 {
+  margin: 0 0 8px;
+}
+
+.bootstrap p {
+  margin: 0;
+}
